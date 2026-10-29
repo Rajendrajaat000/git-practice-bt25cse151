@@ -62,8 +62,8 @@ The resolved file was committed, and the repository history was checked.
 ## GitHub Activities
 
 - **Repository:** [git-practice-bt25cse151](https://github.com/Rajendrajaat000/git-practice-bt25cse151)
-- **Issues:** To be added.
-- **Pull Requests:** To be added.
+- **Issue:** [Organize and verify Git practice assignment #1](https://github.com/Rajendrajaat000/git-practice-bt25cse151/issues/1)
+- **Pull Request:** To be added after creation.
 
 ## Repository Notes
 
